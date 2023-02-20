@@ -1,1 +1,3 @@
-console.log("Hello, pnutmath")
+import checkStatus from "./background-functions/checkStatus.js";
+
+checkStatus()
